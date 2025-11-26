@@ -1,0 +1,11 @@
+{
+  "version": "1.1.0",
+  "notes": "OneBox v1.1.0\n\n",
+  "pub_date": "2025-11-26T05:20:43Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZFE1dlV3VHI1RHJBWURyOFpRalFQSWc4VXQ0d0xVNWlDR2VrdkVhbFJxWkNXdEFNdUlIMU53YjlsZHo5MVFobTNmU3k1b0V0b3YrK0xXWUFid2plamNXODA3U1d5ckF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MTM0MjI4CWZpbGU6T25lQm94LmFwcC50YXIuZ3oKOVhWMHhWYTdDS25vU1hKWjErQmhPVjFxTDM4aVRxRVFQNW5uMG5TMW5xVEZ2cXd6MFc2aUFqeWp5SDJJZ2ZGQ2JwSlFrdjhKakJyVkRRWlp1Y0daRGc9PQo=",
+      "url": "http://gitlab.zz-med-stg.com/package/onebox-updater/-/raw/main/release/1.1.0/OneBox-1.1.0-mac-intel.app.tar.gz"
+    }
+  }
+}
