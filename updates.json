@@ -1,10 +1,10 @@
 {
   "version": "1.3.1",
   "notes": "OneBox v1.3.1",
-  "pub_date": "2025-11-28T06:40:38Z",
+  "pub_date": "2025-11-28T06:54:40Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZFE1dlV3VHI1RHNndi81djBDelh6WHV3T2xiVmVVbGtNTkpiUndidnl4Q0RISjJKblJlMGMvWVF0ZW9oamtuYnpMZVJoTWlsWjRCTk92NnNLT3ZVVE5qaXNHWHJiNndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MzEyMDEwCWZpbGU6T25lQm94LmFwcC50YXIuZ3oKSHh3K2xkcHpnbVY5UnE1QjhCb3Q5aVZBbmNYRGllMExscXpEa3Fkd1A0TTV0aHpwa01CUWtTMXBvSThIYVRZQ1Q5OUZhR1Q5K0VybW5hbWJvcmovQXc9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTZFE1dlV3VHI1RGs0cjBtckJnbmo0clFmOW9SSUpzYVFVeUdDMmd5YnhBQXd1aG9wQmhKNW85aE4rQWV2SWExQ2lJdmVhNnlXVHNjbmVwZ0t4YXV1Y2NtaXNqdzF3Q0E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0MzEyODM5CWZpbGU6T25lQm94LmFwcC50YXIuZ3oKSHoxN0Jhd3lubU9nb0diUXhKQ0t6NWp6MTEwQmlqcW5JdXBsV1N3NFNUZ1NlU1dpTjNkQ0pFYWYvTENpVlo3WTRQK25rdnBxWCtOb0E4UE41Q2VaQmc9PQo=",
       "url": "https://raw.githubusercontent.com/idspike/onebox-updater/refs/heads/master/1.3.1/OneBox-1.3.1-mac-intel.app.tar.gz"
     }
   }
